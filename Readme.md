@@ -7,7 +7,7 @@ This JavaScript program analyzes a dataset of students' grades and provides the 
 
 ## Files
 
-- `cashier.js`: Contains the implementation of the required functions.
+- `Task2.js`: Contains the implementation of the required functions.
 - `README.md`: Instructions on how to run the program.
 
 ## Functions
@@ -31,8 +31,8 @@ This JavaScript program analyzes a dataset of students' grades and provides the 
 
 1. Ensure you have Node.js installed on your system.
 2. Clone the repository or download the files.
-3. Navigate to the directory containing `cashier.js` and `README.md`.
+3. Navigate to the directory containing `Task2.js` and `README.md`.
 4. Run the following command in the terminal:
 
 ```sh
-node cashier.js
+node Task2.js
